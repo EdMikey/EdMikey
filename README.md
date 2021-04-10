@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EdMikey
 - 👀 I’m interested in data science, artificial intelligence and machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 EdMikey/EdMikey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
